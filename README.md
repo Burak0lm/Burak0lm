@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
 --> Discord: Burakk#7685
